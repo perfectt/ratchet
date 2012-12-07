@@ -1,5 +1,7 @@
 {
   "name": "ratchet",
+  "repo": "perfectt/ratchet",
+  "description": "Ratchet for component.io",
   "version": "1.0.0",
-  "main": ["./dist/ratchet.js", "./dist/ratchet.css"]
+  "styles": [ "dist/ratchet.css" ]
 }
